@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="374px" height="9px" viewBox="0 0 374 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#279F3E" offset="0%"></stop>
+            <stop stop-color="#FAD400" offset="49.4876894%"></stop>
+            <stop stop-color="#D0021B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Observation-Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="observation_detail" transform="translate(-699.000000, -1043.000000)" fill="url(#linearGradient-1)">
+            <path d="M703,1043 L1068.02522,1043 C1070.23436,1043 1072.02522,1044.79086 1072.02522,1047 L1072.02522,1047.65373 C1072.02522,1049.86287 1070.23436,1051.65373 1068.02522,1051.65373 L703,1051.65373 C700.790861,1051.65373 699,1049.86287 699,1047.65373 L699,1047 C699,1044.79086 700.790861,1043 703,1043 Z" id="Rectangle-6"></path>
+        </g>
+    </g>
+</svg>

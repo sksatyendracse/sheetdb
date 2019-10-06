@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="21px" viewBox="0 0 21 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Observation-Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard_observations" transform="translate(-708.000000, -26.000000)" fill="#1AACE5">
+            <path d="M718.491129,26 L708,33.8192021 L708,45 L714.433026,38.6128806 L709.486731,34.9268166 L718.491343,28.2161047 L727.511986,34.9268166 L722.563768,38.6082828 L729,45 L729,33.8192021 L718.491556,26 L718.491129,26 Z M708,47 L718.499893,37 L729,47 L708,47 Z M717.200041,36 L717.800062,33.8571111 L716,33.8571111 L718.800166,30 L718.200145,32.1428889 L720,32.1428889 L717.200041,36 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

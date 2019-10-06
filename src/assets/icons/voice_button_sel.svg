@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="183px" viewBox="0 0 183 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="175" height="175" rx="8"></rect>
+        <filter x="-4.0%" y="-2.9%" width="108.0%" height="108.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.149569746 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="worker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="24" transform="translate(-397.000000, -785.000000)">
+            <g id="Group-3" transform="translate(401.000000, 787.000000)">
+                <g id="Rectangle-8">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#1AACE5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DADADA" stroke-width="1" x="0.5" y="0.5" width="174" height="174" rx="8"></rect>
+                </g>
+                <path d="M137.875,41 L130,33.1907368 L133.24975,29.8658947 L137.875,34.3503158 L147.75025,24 L151,27.3248421 L137.875,41 Z M141,10 C128.8505,10 119,19.8505 119,32 C119,44.1495 128.8505,54 141,54 C153.1495,54 163,44.1495 163,32 C163,19.8505 153.1495,10 141,10 L141,10 Z" id="Page-1" fill="#FFFFFF"></path>
+                <path d="M103,83 C103,91.836 95.836,99 87,99 C78.164,99 71,91.836 71,83 L71,55 C71,46.164 78.164,39 87,39 C95.836,39 103,46.164 103,55 L103,83 Z M119,75 L119,83 C119,100.672 104.672,115 87,115 C69.328,115 55,100.672 55,83 L55,75 L63,75 L63,83 C63,96.236 73.764,107 87,107 C100.236,107 111,96.236 111,83 L111,75 L119,75 Z M91,127 L91,119 L83,119 L83,127 L67,127 L67,135 L107,135 L107,127 L91,127 Z" id="Shape" fill="#116B8E" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="109px" height="109px" viewBox="0 0 109 109" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="101" height="101" rx="8"></rect>
+        <filter x="-6.9%" y="-5.0%" width="113.9%" height="113.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.149569746 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="worker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="22" transform="translate(-137.000000, -458.000000)">
+            <g id="Group-2" transform="translate(141.000000, 460.000000)">
+                <g id="Rectangle-8">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#1AACE5" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#DADADA" stroke-width="1" x="0.5" y="0.5" width="100" height="100" rx="8"></rect>
+                </g>
+                <path d="M68.68,29.4342857 L33.4742857,29.4342857 L33.4742857,39.9671429 L36.9930969,39.9671429 C36.9930969,37.9062138 37.6919303,34.7007143 40.5154286,34.7007143 L47.5565714,34.7007143 L47.5565714,64.3226195 C47.5565714,66.3835486 46.1043357,68.0547619 44.036,68.0547619 L42.2757143,68.0547619 L42.2757143,71.5657143 L59.8768111,71.5657143 L59.8768111,68.0547619 L58.1182857,68.0547619 C56.0517103,68.0547619 54.5977143,66.3835486 54.5977143,64.3226195 L54.5977143,34.7007143 L61.6388571,34.7007143 C64.5415683,34.7007143 65.1946343,37.9062138 65.1946343,39.9671429 L68.68,39.9671429 L68.68,29.4342857 L68.68,29.4342857 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

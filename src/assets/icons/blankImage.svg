@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="258px" height="258px" viewBox="0 0 258 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.8%" y="-2.0%" width="105.6%" height="105.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(4.000000, 2.000000)">
+            <g id="Group-3">
+                <g id="Group-4">
+                    <g id="Group">
+                        <g id="Rectangle-9" filter="url(#filter-1)">
+                            <g id="path-1-link" fill="#F5F5F5">
+                                <rect id="path-1" x="0" y="0" width="250" height="250"></rect>
+                            </g>
+                            <rect id="Rectangle-path" stroke="#E6E6E6" x="0.5" y="0.5" width="249" height="249"></rect>
+                        </g>
+                    </g>
+                    <text id="Image-not-Available" font-family="FiraSans-Bold, Fira Sans" font-size="27" font-weight="bold" fill="#84CDE9">
+                        <tspan x="4" y="204">Image not Available</tspan>
+                    </text>
+                    <path d="M138.723633,127.12424 C138.723633,120.877688 133.658065,115.81212 127.411513,115.81212 C121.16496,115.81212 116.099392,120.877688 116.099392,127.12424 C116.099392,133.370793 121.16496,138.436361 127.411513,138.436361 C133.658065,138.436361 138.723633,133.370793 138.723633,127.12424 L138.723633,127.12424 Z M109.31212,120.336968 C109.31212,119.08811 108.300817,118.074544 107.049696,118.074544 C105.798576,118.074544 104.787272,119.08811 104.787272,120.336968 C104.787272,121.585826 105.798576,122.599392 107.049696,122.599392 C108.300817,122.599392 109.31212,121.585826 109.31212,120.336968 L109.31212,120.336968 Z M152.298177,111.287272 L152.298177,145.223633 L98,145.223633 L98,111.287272 L111.416175,111.287272 C112.929736,111.287272 114.341489,110.531623 115.180848,109.271452 L118.361816,104.5 L136.461209,104.5 L139.642177,109.271452 C140.481536,110.531623 141.893289,111.287272 143.406851,111.287272 L152.298177,111.287272 Z M127.411513,120.336968 C123.669463,120.336968 120.62424,123.382191 120.62424,127.12424 C120.62424,130.86629 123.669463,133.911513 127.411513,133.911513 C131.153562,133.911513 134.198785,130.86629 134.198785,127.12424 C134.198785,123.382191 131.153562,120.336968 127.411513,120.336968 L127.411513,120.336968 Z M102.524848,109.024848 L109.31212,109.024848 L109.31212,106.762424 L102.524848,106.762424 L102.524848,109.024848 Z" id="Page-1" fill="#E3E3E3" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

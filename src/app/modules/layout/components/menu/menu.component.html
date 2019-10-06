@@ -1,0 +1,11 @@
+
+    <div class="menu-content">
+      <div class="menu-list">
+        <div *ngFor="let menuItem of menuItems">
+          <div *ngIf="menuItem.isAvailable" (click)="onClickMenuItem(menuItem)" [class.active]="isActive(menuItem)" class="menu-item" [class.menu-item-title]="menuItem.isTitle">
+          <div class="title">{{menuItem.name}}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+

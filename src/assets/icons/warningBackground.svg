@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="336px" height="58px" viewBox="0 0 336 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="328" height="50" rx="8"></rect>
+        <filter x="-2.1%" y="-10.0%" width="104.3%" height="128.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.149569746 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="worker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7" transform="translate(-43.000000, -690.000000)">
+            <g id="Group-2" transform="translate(47.000000, 692.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Mask">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                    <use fill="#FAD400" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g mask="url(#mask-2)" id="Rectangle-3" fill="#FFDF2E">
+                    <g transform="translate(-59.113238, -2.916667)">
+                        <polygon points="52.3125997 0 81.6076555 0 29.2950558 57.9166667 0 57.9166667"></polygon>
+                        <polygon points="104.625199 0 133.920255 0 81.6076555 57.9166667 52.3125997 57.9166667"></polygon>
+                        <polygon points="156.937799 0 186.232855 0 133.920255 57.9166667 104.625199 57.9166667"></polygon>
+                        <polygon points="209.250399 0 238.545455 0 186.232855 57.9166667 156.937799 57.9166667"></polygon>
+                        <polygon points="261.562998 0 290.858054 0 238.545455 57.9166667 209.250399 57.9166667"></polygon>
+                        <polygon points="313.875598 0 343.170654 0 290.858054 57.9166667 261.562998 57.9166667"></polygon>
+                        <polygon points="366.188198 0 395.483254 0 343.170654 57.9166667 313.875598 57.9166667"></polygon>
+                        <polygon points="418.500797 0 447.795853 0 395.483254 57.9166667 366.188198 57.9166667"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

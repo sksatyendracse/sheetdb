@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Navigation-Order" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="observation_filters" transform="translate(-771.000000, -277.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M777,289 L771,289 L771,287 L777,287 L777,289 Z M775,285 L775,277 L773,277 L773,285 L775,285 Z M773,291 L773,295 L775,295 L775,291 L773,291 Z M784,285 L778,285 L778,283 L784,283 L784,285 Z M782,281 L782,277 L780,277 L780,281 L782,281 Z M780,287 L780,295 L782,295 L782,287 L780,287 Z M791,289 L785,289 L785,287 L791,287 L791,289 Z M789,285 L789,277 L787,277 L787,285 L789,285 Z M787,291 L787,295 L789,295 L789,291 L787,291 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

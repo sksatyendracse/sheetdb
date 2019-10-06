@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="observation_global-copy" transform="translate(-1060.000000, -238.000000)" fill="#FFFFFF">
+            <g id="Combined-Shape-2" transform="translate(1060.000000, 238.000000)">
+                <path d="M8.01542687,0.00846268657 L8.01542687,8.0641791 L8.95522398e-06,8.0641791 C0.418934328,3.82361194 3.78099403,0.448119403 8.01542687,0.00846268657 Z M-3.64153152e-14,9.85522836 L8.54001493,9.85522836 L14.6300149,15.9452731 C13.0817015,17.2045119 11.1070299,17.959706 8.95571642,17.959706 C4.28740299,17.959706 0.449507463,14.4053328 -3.64153152e-14,9.85522836 Z M9.80647164,-2.66453526e-15 C14.3779791,0.428731343 17.9557254,4.2761194 17.9557254,8.95970149 C17.9557254,11.1338955 17.1847701,13.128 15.9013075,14.6836119 L9.80647164,8.58877612 L9.80647164,-2.66453526e-15 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

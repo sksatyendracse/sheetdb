@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="94px" viewBox="0 0 94 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M8,0 L78,0 C82.418278,-8.11624501e-16 86,3.581722 86,8 L86,78 C86,82.418278 82.418278,86 78,86 L8,86 C3.581722,86 5.41083001e-16,82.418278 0,78 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="path-1"></path>
+        <filter x="-8.1%" y="-5.8%" width="116.3%" height="116.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.149569746 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Sending-Images" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="send_text_message" transform="translate(-589.000000, -559.000000)">
+            <g id="Group-5" transform="translate(0.000000, 529.000000)">
+                <g id="Group-6" transform="translate(593.000000, 32.000000)">
+                    <g id="Group-7">
+                        <g id="Group">
+                            <g id="Rectangle-8">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <path stroke="#DADADA" stroke-width="1" d="M8,0.5 C3.85786438,0.5 0.5,3.85786438 0.5,8 L0.5,78 C0.5,82.1421356 3.85786438,85.5 8,85.5 L78,85.5 C82.1421356,85.5 85.5,82.1421356 85.5,78 L85.5,8 C85.5,3.85786438 82.1421356,0.5 78,0.5 L8,0.5 Z" stroke-linejoin="square" fill="#1AACE5" fill-rule="evenodd"></path>
+                            </g>
+                        </g>
+                        <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="66 19 54 63 37.742 48.522 53.346 32.054 32.43 46.508 18 43"></polygon>
+                    </g>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="36 52.336 36 67 42.516 58.138"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

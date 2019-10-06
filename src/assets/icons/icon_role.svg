@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="21px" viewBox="0 0 18 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Navigation-Order" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="observation_filters" transform="translate(-773.000000, -335.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M784.808693,349.786 C785.965232,350.053375 786.004233,350.628625 785.999733,351.636625 L785.998233,352 L777.001682,352 L777.000182,351.625 C776.996432,350.6245 777.039559,350.05225 778.191972,349.786 C779.453889,349.494625 780.699681,349.233625 780.100786,348.12925 C778.326227,344.855875 779.594519,343 781.500333,343 C783.36902,343 784.669939,344.78725 782.89988,348.12925 C782.31861,349.22725 783.519025,349.48825 784.808693,349.786 Z M780,335 L783,335 L783,341 L780,341 L780,335 Z M785.014603,340 L785.014603,338 L790.030252,338 L790.030252,356.003553 L773,356.003553 L773,338.0323 L777.992497,338.0323 L777.992497,340.0323 L775,340.0323 L775,354.003553 L788.030252,354.003553 L788.030252,340 L785.014603,340 Z" id="Combined-Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>C</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="C" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#F1F1F1" x="0" y="0" width="200" height="200"></rect>
+        <path d="M102.866667,119.1 C109.866667,119.1 112.666667,116.2 115.166667,109.3 L132.066667,109.3 C130.766667,126 117.266667,133.9 102.466667,133.9 C82.966667,133.9 69.866667,121 69.866667,98 C69.866667,75 82.966667,62.1 102.466667,62.1 C117.166667,62.1 130.466667,70 131.966667,86.5 L114.966667,86.5 C112.466667,79.8 109.766667,76.9 102.866667,76.9 C92.766667,76.9 87.866667,85.3 87.866667,98 C87.866667,110.6 92.766667,119.1 102.866667,119.1 Z" id="A" fill="#153B4F"></path>
+    </g>
+</svg>

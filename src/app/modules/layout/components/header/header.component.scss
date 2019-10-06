@@ -1,0 +1,132 @@
+ion-toolbar {
+  --padding-bottom: 0 !important;
+  --padding-end: 0 !important;
+  --padding-start: 0 !important;
+  --padding-top: 0 !important;
+  padding: 0 !important;
+
+  .toolbar-container {
+    padding: 0 !important;
+  }
+
+  .toolbar-content {
+    height: var(--nav-height);
+    background: var(--ccs-base-dark-blue);
+
+    .logo {
+      height: 43px;
+      width: 175px;
+      position: absolute;
+      left: var(--page-padding);
+      top: 16.5px;
+      cursor: pointer;
+    }
+
+    .info-panel {
+      display: flex;
+      color: var(--ccs-base-white);
+      position: absolute;
+      right: 0;
+      height: 100%;
+
+      .user-info {
+        display: flex;
+        font-size: 15px;
+        color: var(--ccs-base-white);
+        align-items: center;
+        padding-right: 1.2em;
+        font-weight: 600;
+
+        .user-name, .user-team {
+          &:after {
+            content: '|';
+            color: var(--ccs-base-white);
+            font-family: WorkSans;
+            padding-left: 15px;
+            padding-right: 15px;
+          }
+
+          span {
+            outline: none;
+          }
+        }
+
+        .user-name {
+          font-family: WorkSans-Bold;
+          font-size: 15px;
+          font-weight: bold;
+          letter-spacing: -.3px;
+          display: flex;
+          align-items: center;
+
+          .messageBlock {
+            padding-left: 15px;
+
+            .count-icon {
+              height: 21px;
+              width: 21px;
+              background-size: 21px !important;
+              display: inline-block;
+              margin: 0 5px;
+              cursor: pointer;
+
+              &.message {
+               
+              }
+
+              &.notification {
+                
+              }
+            }
+          }
+        }
+
+        .logout-action {
+          color: var(--ccs-base-blue);
+          text-decoration: underline;
+          font-size: .9em;
+          font-weight: normal;
+          cursor: pointer;
+
+          &:hover {
+            text-decoration: none;
+          }
+        }
+      }
+
+      .menu {
+        background: #123243;
+        width: 160px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .title {
+          font-size: 16px;
+          color: var(--ccs-base-white);
+          display: flex;
+          align-items: center;
+          font-family: WorkSans-Bold;
+          padding-bottom: 3px;
+
+          &:after {
+            content: '';
+            
+            background-size: 1.5em 1.5em;
+            width: 1.5em;
+            height: 1.5em;
+            margin-top: 1px;
+            margin-left: 9px;
+          }
+        }
+      }
+    }
+  }
+}
+
+::ng-deep {
+  .sc-ion-toolbar-md-0, .sc-ion-toolbar-md-3 {
+    padding: 0 !important;
+  }
+}

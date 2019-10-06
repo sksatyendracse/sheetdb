@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,0 L9.07311792,0 L9.07311792,9.0877214 L0,9.0877214 L0,0 Z M16.7027853,0 L25.7759032,0 L25.7759032,9.0877214 L16.7027853,9.0877214 L16.7027853,0 Z M0,16.7296689 L9.07311792,16.7296689 L9.07311792,25.8173904 L0,25.8173904 L0,16.7296689 Z M16.7027853,16.7296689 L25.7759032,16.7296689 L25.7759032,25.8173904 L16.7027853,25.8173904 L16.7027853,16.7296689 Z" id="path-1"></path>
+    </defs>
+    <g id="desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-3" transform="translate(-1083.000000, -512.000000)">
+            <g id="Group-4" transform="translate(1034.000000, 0.000000)">
+                <g id="Group-5" transform="translate(49.000000, 512.000000)">
+                    <g id="Rectangle-4">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FF2626" opacity="0" xlink:href="#path-1"></use>
+                        <path d="M2.4744867,2.47846947 L2.4744867,23.3389209 L23.3014165,23.3389209 L23.3014165,2.47846947 L2.4744867,2.47846947 Z M0,0 L25.7759032,0 L25.7759032,25.8173904 L0,25.8173904 L0,0 Z" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                    </g>
+                    <polygon id="Z" fill="#FFFFFF" points="18.0858466 16.2887374 11.9786366 16.2887374 18.0298171 9.01189204 18.0111406 6.29944325 7.92583983 6.29944325 7.92583983 9.40472945 13.808932 9.40472945 7.81378093 16.6815748 7.81378093 19.3940236 18.0858466 19.3940236"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="worker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="29" transform="translate(-20.000000, -318.000000)">
+            <g id="Group-3" transform="translate(20.000000, 318.000000)">
+                <g id="Group-5">
+                    <g id="Group-2" fill="#FAD400">
+                        <rect id="Mask" x="0" y="0" width="60" height="60" rx="8"></rect>
+                    </g>
+                    <path d="M20.8533864,33.3927388 L20.8533864,19.6153209 C23.107951,18.1032119 26.5406151,17.0133864 30.0085888,17.0133864 L30.0119289,17.0133864 L30.0004772,42.6796365 L30,42.6796365 C23.0201542,38.3718672 20.8533864,37.3512294 20.8533864,33.3927388 M30,14.4 C25.2122113,14.4 20.7818129,16.1440071 18.24,18.3198409 L18.24,33.3927388 C18.24,39.4053883 22.4265715,40.9766648 30,45.7601591 C37.5734285,40.9766648 41.76,39.4053883 41.76,33.3927388 L41.76,18.3198409 C39.2181871,16.1440071 34.7877887,14.4 30,14.4" id="Fill-2" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
